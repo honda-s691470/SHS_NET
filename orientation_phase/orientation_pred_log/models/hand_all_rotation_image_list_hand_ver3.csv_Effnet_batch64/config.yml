@@ -1,0 +1,24 @@
+arch: Effnet
+batch_size: 64
+dataset: hand_all_rotation
+epochs: 10
+factor: 0.1
+img_ext: .jpg
+img_path: 
+input_channels: 3
+input_h: 144
+input_w: 144
+label: image_list_hand_ver3.csv
+loss: CEL
+lr: 0.01
+mask_ext: .jpg
+min_lr: 0.0001
+momentum: 0.9
+name: hand_all_rotation_image_list_hand_ver3.csv_Effnet_batch64
+nesterov: false
+num_workers: 16
+optimizer: Adabound
+patience: 3
+scheduler: CosineAnnealingLR
+test_ratio: 0.25
+weight_decay: 0.0001
