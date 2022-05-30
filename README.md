@@ -11,9 +11,9 @@ This code was tested primarily on Python 3.8.12 using jupyter notebook.
 
 SHS_NET has the following dependencies
 
--pytorch 1.7.1
--Numpy 1.21.4
--Pandas 1.13
--Matplotlib 3.3.1
--Seaborn 0.11.0
--Sklearn 0.23.2
+- pytorch 1.7.1
+- Numpy 1.21.4
+- Pandas 1.13
+- Matplotlib 3.3.1
+- Seaborn 0.11.0
+- Sklearn 0.23.2
