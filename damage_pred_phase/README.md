@@ -24,6 +24,7 @@ The damage prediction phase is intended to predict THE Sharp/van der Heijde scor
 └── utils.py                               # common useful modules (to make scheduler, optimizer, label maker for training and validation etc.)  
 </pre> 
 
+# References
 The original score-CAM can be found [here](https://github.com/haofanwang/Score-CAM)  
 Wang H, Wang Z, Du M, et al. Score-CAM: Score-Weighted Visual Explanations for Convolutional Neural Networks. In: 2020 IEEE/CVF Conference on Computer Vision and Pattern Recognition Workshops (CVPRW). IEEE 2020. 111–9.  
 
