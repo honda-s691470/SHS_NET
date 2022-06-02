@@ -18,7 +18,8 @@ The joint detection phase aims to identify the joint coordinates in the image by
 ├── models                      
 │   └── model name                         # Directory to store config, log and weight parameter files               
 ├── README.md                              # README file   
-├── U-Net_base_joint_coord_detector.ipynb  # main code of joint detection phase  
+├── U-Net_base_joint_coord_detector.ipynb  # main code of joint detection phase
+├── adabound.py                            # code for adabound, a type of optimizer
 ├── archs.py                               # code for architecuture of U-Net  
 ├── dataset.py                             # code for making data-loader from images in hand_all_rotation dir and image_list_hand_ver3.csv  
 ├── heatmap_generator.ipynb                # code for generating heatmaps
