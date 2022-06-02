@@ -4,6 +4,8 @@ The joint detection phase aims to identify the joint coordinates in the image by
 ![joint_detection2](https://user-images.githubusercontent.com/80377824/171571670-1247f528-e6bf-451d-98e1-0bbd45195f6c.png)
 
 
+
+
 # Code Architecture
 <pre>
 .　　
