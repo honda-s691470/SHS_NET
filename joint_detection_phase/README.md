@@ -23,7 +23,7 @@ The joint detection phase aims to identify the joint coordinates in the image by
 ├── dataset.py                             # code for making data-loader from images in hand_all_rotation dir and image_list_hand_ver3.csv  
 ├── heatmap_generator.ipynb                # code for generating heatmaps
 ├── losses.py                              # code for loss function  
-├── metrics.py                             # code for culcurate SDR(Standard dimension ratio)
+├── metrics.py                             # code for calcurating SDR(Standard dimension ratio)
 ├── train_val.py                           # code for training and validation  
 └── utils.py                               # common useful modules (to make scheduler, optimizer, label maker for training and validation etc.)  
 </pre> 
