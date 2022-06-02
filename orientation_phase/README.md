@@ -23,4 +23,7 @@ The orientation phase aims to align the orientation of the hand radiographs and 
 └── utils.py                    # common useful modules (to make scheduler, optimizer, label maker for training and validation etc.)  
 </pre> 
 
-This repository contains dummy images obtained from [RSNA-Pediatric-Bone-Age-Challenge-2017](https://www.rsna.org/education/ai-resources-and-training/ai-image-challenge/RSNA-Pediatric-Bone-Age-Challenge-2017)
+This repository contains dummy images obtained from [RSNA-Pediatric-Bone-Age-Challenge-2017](https://www.rsna.org/education/ai-resources-and-training/ai-image-challenge/RSNA-Pediatric-Bone-Age-Challenge-2017)   
+
+
+code of adabound can be found [here](https://github.com/Luolc/AdaBound)
