@@ -1,7 +1,7 @@
 # SHS_NET orientation_phase
 The orientation phase aims to align the orientation of the hand radiographs and furthermore, in the case of a two-handed image, to split the image into one hand. An overview of this phase follows.
 
-![orientation_phase](https://user-images.githubusercontent.com/80377824/171557850-b7715e42-8447-40d1-9fbf-9a5b77837cdf.png)
+![orientation_phase](https://user-images.githubusercontent.com/80377824/171569785-73d6740e-beea-4c92-b4e5-82ae4fe24da6.png)
 
 # Code Architecture
 <pre>
