@@ -27,3 +27,4 @@ This repository contains dummy images obtained from [RSNA-Pediatric-Bone-Age-Cha
 Halabi SS, Prevedello LM, Kalpathy-Cramer J, et al. The RSNA Pediatric Bone Age Machine Learning Challenge. Radiology 2018; 290(2):498-503.
 
 code of adabound can be found [here](https://github.com/Luolc/AdaBound)
+Luo L, Xiong Y, Liu Y, et al. Adaptive Gradient Methods with Dynamic Bound of Learning Rate. Published Online First: 26 February 2019.http://arxiv.org/abs/1902.09843
