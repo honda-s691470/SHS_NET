@@ -9,7 +9,8 @@ The orientation phase aims to align the orientation of the hand radiographs and 
 ├── hand_all_rotation           # hand radiographs for training.   
 ├── hand_test                   # hand radiographs for testing (align the orientation and/or split)                    
 ├── orientation_pred_log       
-│   └── models                  # Directory to store config, log and weight parameter files  
+│   └── models                  
+│        └── model_name         # Directory to store config, log and weight parameter files  
 ├── output                      # Directory to store output images from the model  
 ├── Orientation_detector.ipynb  # main code of orientation phase  
 ├── README.md                   # README file  
