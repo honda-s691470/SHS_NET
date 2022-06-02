@@ -1,3 +1,4 @@
+# Damage prediction phase
 The damage prediction phase is intended to predict THE Sharp/van der Heijde score for each joint. The architecture of the Full model we constructed is as follows.
 
 
