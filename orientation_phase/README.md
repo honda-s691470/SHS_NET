@@ -11,7 +11,7 @@ The orientation phase aims to align the orientation of the hand radiographs and 
 ├── orientation_phase       
 │   └── orientation_pred_log               
 │       └── models              # Directory to store config, log and weight parameter files  
-├── output                      # Directory for storing images output from the model  
+├── output                      # Directory to store output images from the model  
 ├── Orientation_detector.ipynb  # main code of orientation phase  
 ├── README.md                   # README file  
 ├── adabound.py                 # code for adabound, a type of optimizer  
