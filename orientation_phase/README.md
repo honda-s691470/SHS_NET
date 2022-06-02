@@ -6,7 +6,7 @@ The orientation phase aims to align the orientation of the hand radiographs and 
 # Code Architecture
 <pre>
 .　　
-├── hand_all_rotation           # hand radiographs for training. This repository contains dummy images obtained from {RSNA-Pediatric-Bone-Age-Challenge-2017}  
+├── hand_all_rotation           # hand radiographs for training.   
 ├── hand_test                   # hand radiographs for testing (align the orientation and/or split)                    
 ├── orientation_phase       
 │   └── orientation_pred_log               
@@ -22,3 +22,5 @@ The orientation phase aims to align the orientation of the hand radiographs and 
 ├── train_val.py                # code for training and validation  
 └── utils.py                    # common useful modules (to make scheduler, optimizer, label maker for training and validation etc.)  
 </pre> 
+
+This repository contains dummy images obtained from [RSNA-Pediatric-Bone-Age-Challenge-2017](https://www.rsna.org/education/ai-resources-and-training/ai-image-challenge/RSNA-Pediatric-Bone-Age-Challenge-2017)
