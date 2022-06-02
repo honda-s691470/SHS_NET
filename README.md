@@ -16,4 +16,5 @@ The following environment is recommended.
 - Matplotlib >= 3.3.1
 - Seaborn >= 0.11.0
 - Sklearn >= 0.23.2
-- timm
+- timm >= 0.4.12
+- albumentation >= 1.03 (only joint detection phase)
