@@ -29,5 +29,7 @@ The joint detection phase aims to identify the joint coordinates in the image by
 └── utils.py                               # common useful modules (to make scheduler, optimizer, label maker for training and validation etc.)  
 </pre> 
 
-We generated heatmap images which encode the “pseudo-probability” of joint coordinate being at a particular pixel location. This method is also used for cell segmentation, and we referred to it as well.  
+
+# References
+We generated heatmap images which encode the “pseudo-probability” of joint coordinate being at a particular pixel location. This method is also used for cell segmentation, and we referred to it as well. You can find it [here](https://github.com/naivete5656/WSISPDR)
 Nishimura K, Ker DFE, Bise R. Weakly Supervised Cell Instance Segmentation by Propagating from Detection Response. Published Online First: 29 November 2019. doi:https://doi.org/10.48550/arXiv.1911.13077
