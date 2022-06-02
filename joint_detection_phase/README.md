@@ -28,7 +28,4 @@ The joint detection phase aims to identify the joint coordinates in the image by
 └── utils.py                               # common useful modules (to make scheduler, optimizer, label maker for training and validation etc.)  
 </pre> 
 
-This repository contains dummy images obtained from [RSNA-Pediatric-Bone-Age-Challenge-2017](https://www.rsna.org/education/ai-resources-and-training/ai-image-challenge/RSNA-Pediatric-Bone-Age-Challenge-2017)   
-Halabi SS, Prevedello LM, Kalpathy-Cramer J, et al. The RSNA Pediatric Bone Age Machine Learning Challenge. Radiology 2018; 290(2):498-503.
 
-code of adabound can be found [here](https://github.com/Luolc/AdaBound)
