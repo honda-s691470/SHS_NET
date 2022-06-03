@@ -33,6 +33,13 @@ the source code of score-CAM is released under the MIT License
 [https://github.com/jacobgil/pytorch-grad-cam/blob/master/LICENSE](https://github.com/jacobgil/pytorch-grad-cam/blob/master/LICENSE)
 
 - We built our base CNN model using [timm](https://github.com/rwightman/pytorch-image-models).  
-Copyright 2019 Ross Wightman  
+Copyright (c) 2019 Ross Wightman  
 the source code of timm is released under the Apache License 2.0  
 https://github.com/rwightman/pytorch-image-models/blob/master/LICENSE
+
+- The original paper of SELayer is below.  
+Hu J, Shen L, Albanie S, et al. Squeeze-and-Excitation Networks. IEEE Trans Pattern Anal Mach Intell 2020;42:2011–23. doi:10.1109/TPAMI.2019.2913372  
+The source code for SE(Squeeze-and-Excitation) Layer can be found [here](https://github.com/moskomule/senet.pytorch)  
+Copyright (c) 2018 Ryuichiro Hataya  
+the source code of SELayer is released under the MIT License  
+[https://github.com/moskomule/senet.pytorch/blob/master/LICENSE](https://github.com/moskomule/senet.pytorch/blob/master/LICENSE)
