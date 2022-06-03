@@ -46,7 +46,7 @@ the source code of SELayer is released under the MIT License
 
 - THe original paper of self mutual learning is below.  
 Zhang Y, Xiang T, Hospedales TM, et al. Deep Mutual Learning. Published Online First: 1 June 2017.http://arxiv.org/abs/1706.00384  
-The source code for Deep Mutual Learning can be found [here](https://github.com/chxy95/Deep-Mutual-Learning)  
+The source code for Deep Mutual Learning can be found [here](https://github.com/4uiiurz1/pytorch-nested-unet)  
 Copyright (c) 2019 XyChen  
 The source code for Deep Mutual Learning is released under the MIT License  
 [https://github.com/chxy95/Deep-Mutual-Learning/blob/master/LICENSE](https://github.com/chxy95/Deep-Mutual-Learning/blob/master/LICENSE)
