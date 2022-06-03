@@ -34,4 +34,5 @@ the source code of score-CAM is released under the MIT License
 
 - We built our base CNN model using [timm](https://github.com/rwightman/pytorch-image-models).  
 Copyright 2019 Ross Wightman  
-the source code of timm is released under the Apache License 2.0
+the source code of timm is released under the Apache License 2.0  
+https://github.com/rwightman/pytorch-image-models/blob/master/LICENSE
