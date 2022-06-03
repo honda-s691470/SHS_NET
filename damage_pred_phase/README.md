@@ -25,11 +25,13 @@ The damage prediction phase is intended to predict THE Sharp/van der Heijde scor
 </pre> 
 
 # References
-The original score-CAM can be found [here](https://github.com/haofanwang/Score-CAM)  
+- The original score-CAM can be found [here](https://github.com/haofanwang/Score-CAM)  
 Wang H, Wang Z, Du M, et al. Score-CAM: Score-Weighted Visual Explanations for Convolutional Neural Networks. In: 2020 IEEE/CVF Conference on Computer Vision and Pattern Recognition Workshops (CVPRW). IEEE 2020. 111–9.  
-
-
 We used [Pytorch implemented code](https://github.com/jacobgil/pytorch-grad-cam) when using score-CAM  
 Copyright (c) 2021 Jacob Gildenblat  
 the source code of score-CAM is released under the MIT License  
 [https://github.com/jacobgil/pytorch-grad-cam/blob/master/LICENSE](https://github.com/jacobgil/pytorch-grad-cam/blob/master/LICENSE)
+
+- We built our base CNN model using [timm](https://github.com/rwightman/pytorch-image-models).  
+Copyright 2019 Ross Wightman  
+the source code of timm is released under the Apache License 2.0
