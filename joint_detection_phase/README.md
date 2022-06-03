@@ -36,3 +36,10 @@ Nishimura K, Ker DFE, Bise R. Weakly Supervised Cell Instance Segmentation by Pr
 Copyright (c) 2019 Kazuya Nishimura  
 The code of WSISPDR is released under the MIT License.  
 [https://github.com/naivete5656/WSISPDR/blob/master/LICENSE](https://github.com/naivete5656/WSISPDR/blob/master/LICENSE)
+
+- THe original paper of U-Net is below.  
+Ronneberger O, Fischer P, Brox T. U-Net: Convolutional Networks for Biomedical Image Segmentation. Published Online First: 18 May 2015.http://arxiv.org/abs/1505.04597  
+The source code for U-Net can be found [here](https://github.com/4uiiurz1/pytorch-nested-unet)  
+Copyright (c) 2018 Takato Kimura  
+The source code for U-Net is released under the MIT License  
+[https://github.com/4uiiurz1/pytorch-nested-unet/blob/master/LICENSE](https://github.com/4uiiurz1/pytorch-nested-unet/blob/master/LICENSE)
