@@ -28,4 +28,5 @@ Halabi SS, Prevedello LM, Kalpathy-Cramer J, et al. The RSNA Pediatric Bone Age 
 
 The code of adabound can be found [here](https://github.com/Luolc/AdaBound)  
 Luo L, Xiong Y, Liu Y, et al. Adaptive Gradient Methods with Dynamic Bound of Learning Rate. Published Online First: 26 February 2019.http://arxiv.org/abs/1902.09843  
-the source code of adabound is released under the Apache License 2.0
+the source code of adabound is released under the Apache License 2.0  
+https://github.com/Luolc/AdaBound/blob/master/LICENSE
