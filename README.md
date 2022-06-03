@@ -1,5 +1,5 @@
 # SHS_NET
-Suguru Honda, MD, Koichiro Yano, MD, PhD, Eiichi Tanaka, MD, PhD, Katsunori Ikari, MD, PhD, Masayoshi Harigai, MD, PhD
+Suguru Honda, Koichiro Yano, Eiichi Tanaka, Katsunori Ikari, Masayoshi Harigai
 
 This project predicts the Sharp/van der Heijde score (SHS) for hand radiographs through three phases, orientation, joint detection, damage prediction. The results of this analysis have been published in Preprint and can be accessed here. The overview of this study as follows.
 
