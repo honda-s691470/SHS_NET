@@ -29,4 +29,7 @@ The original score-CAM can be found [here](https://github.com/haofanwang/Score-C
 Wang H, Wang Z, Du M, et al. Score-CAM: Score-Weighted Visual Explanations for Convolutional Neural Networks. In: 2020 IEEE/CVF Conference on Computer Vision and Pattern Recognition Workshops (CVPRW). IEEE 2020. 111–9.  
 
 
-We used [Pytorch implemented code](https://github.com/jacobgil/pytorch-grad-cam) when using score-CAM
+We used [Pytorch implemented code](https://github.com/jacobgil/pytorch-grad-cam) when using score-CAM  
+Copyright (c) 2021 Jacob Gildenblat  
+the source code of score-CAM is released under the MIT License  
+[https://github.com/jacobgil/pytorch-grad-cam/blob/master/LICENSE](https://github.com/jacobgil/pytorch-grad-cam/blob/master/LICENSE)
