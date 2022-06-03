@@ -32,4 +32,7 @@ The joint detection phase aims to identify the joint coordinates in the image by
 
 # References
 We generated heatmap images which encode the “pseudo-probability” of joint coordinate being at a particular pixel location. This method is also used for cell segmentation, and we referred to it as well. You can find it [here](https://github.com/naivete5656/WSISPDR)  
-Nishimura K, Ker DFE, Bise R. Weakly Supervised Cell Instance Segmentation by Propagating from Detection Response. Published Online First: 29 November 2019. doi:https://doi.org/10.48550/arXiv.1911.13077
+Nishimura K, Ker DFE, Bise R. Weakly Supervised Cell Instance Segmentation by Propagating from Detection Response. Published Online First: 29 November 2019. doi:https://doi.org/10.48550/arXiv.1911.13077  
+Copyright (c) 2019 Kazuya Nishimura  
+The code of WSISPDR is released under the MIT License.  
+[https://github.com/naivete5656/WSISPDR/blob/master/LICENSE](https://github.com/naivete5656/WSISPDR/blob/master/LICENSE)
